@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Floating Clock</string>
+    <string name="rabbit_anim_desc">Fashion Rabbit Animation</string>
+    <string name="close_desc">Close</string>
+</resources>
